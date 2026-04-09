@@ -1,6 +1,6 @@
 function Education() {
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="page">
       <h1>Education</h1>
       <ul>
         <li>2024 - 2028: B.Tech CSE, Dhemaji Engineerning COllege</li>

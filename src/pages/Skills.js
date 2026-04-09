@@ -10,7 +10,7 @@ function Skills() {
   }, []);
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="page">
       <h1>Skills</h1>
       <ul>
         <li>C, C++, Python</li>

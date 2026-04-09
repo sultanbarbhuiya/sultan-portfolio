@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="page">
       <h1>Contact</h1>
       <p>Mobile: 1234567890</p>
       <p>WhatsApp: 1234567890</p>
