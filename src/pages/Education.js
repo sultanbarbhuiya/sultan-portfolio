@@ -3,9 +3,9 @@ function Education() {
     <div style={{ padding: "20px" }}>
       <h1>Education</h1>
       <ul>
-        <li>2024 - Present: B.Tech CSE</li>
-        <li>2022 - 2024: Higher Secondary</li>
-        <li>2020 - 2022: High School</li>
+        <li>2024 - 2028: B.Tech CSE, Dhemaji Engineerning COllege</li>
+        <li>2022 - 2023: Higher Secondary, Nabinchandra College</li>
+        <li>2019 - 2020: High School, Janata High School</li>
       </ul>
     </div>
   );

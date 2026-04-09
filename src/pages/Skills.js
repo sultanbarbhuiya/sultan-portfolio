@@ -12,7 +12,11 @@ function Skills() {
   return (
     <div style={{ padding: "20px" }}>
       <h1>Skills</h1>
-      <p>C++, DSA, React</p>
+      <ul>
+        <li>C, C++, Python</li>
+        <li>DSA and OOPS</li>
+        <li>HTML, CSS and basic Javascript</li>
+      </ul>
 
       <h2>Users from API</h2>
       {users.map(user => (
