@@ -114,4 +114,53 @@ input {
   position: fixed;
   bottom: 0;
   width: 100%;
+
+  /* Contact links */
+.contact-item {
+  margin-bottom: 12px;
+}
+
+.contact-item a {
+  color: #0077ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-item a:hover {
+  text-decoration: underline;
+}
+
+/* Education timeline */
+.edu-item {
+  margin-bottom: 15px;
+  padding-left: 15px;
+  border-left: 3px solid #222;
+}
+
+/* Skills badges */
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-badge {
+  background: #222;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+/* Users list styling */
+.user-list {
+  margin-top: 15px;
+}
+
+.user-item {
+  background: #f1f3f6;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
 }
